@@ -1,8 +1,33 @@
-header {
-  width: 900px;
-  background: white;
+a {
+  color: purple;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.bdc-blue {
+  border-color: blue;
+}
+.bds-s {
+  border-style: solid;
+}
+.bdw-1 {
+  border-width: 1px;
+}
+.d-f {
+  display: flex;
+}
+
+.m {
+  margin: 24px;
+}
+.p {
+  padding: 24px;
 }
 
 footer {
-  width: 100px;
+  width: 300px;
+}
+
+.header {
+  justify-content: space-between;
 }
